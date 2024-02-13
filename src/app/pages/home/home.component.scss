@@ -1,0 +1,141 @@
+.userName {
+  width: fit-content !important;
+}
+.profile {
+  padding: 15px 20px;
+  background: #fff;
+  margin-top: 110px;
+  a {
+    text-decoration: none;
+  }
+  .item {
+    .inner1 {
+      gap: 12px;
+      .acct-info {
+        padding-top: 10px;
+        h6 {
+          color: var(--primary-color);
+          font-weight: 500;
+          font-size: 17px;
+        }
+        h5 {
+          color: var(--text-dark);
+          font-size: 22px;
+          font-weight: 500;
+          margin-bottom: 5px;
+        }
+        p {
+          color: var(--grey-200);
+          font-weight: 500;
+          font-size: 12px;
+        }
+      }
+    }
+  }
+}
+
+.list-links {
+  margin: 15px 15px;
+  border-radius: 10px;
+  padding: 15px 20px;
+  padding-top: 8px;
+  background: #fff;
+  a {
+    text-decoration: none;
+  }
+  .item {
+    .inner1 {
+      gap: 5px;
+      .barcyImg {
+        img {
+          width: 30px;
+          margin-top: 10px;
+        }
+      }
+      .acct-info {
+        margin-top: 10px;
+        h5 {
+          color: var(--primary-color);
+          font-weight: 500;
+          font-size: 18px;
+          margin-bottom: 5px;
+          margin-left: 15px;
+        }
+        h6 {
+          color: var(--primary-color);
+          font-weight: 500;
+          font-size: 18px;
+          margin-bottom: 5px;
+        }
+        p {
+          color: var(--grey-200);
+          font-weight: 500;
+          font-size: 14px;
+          margin-bottom: 0px;
+        }
+      }
+    }
+  }
+}
+
+.features {
+  padding: 20px 40px;
+  margin-top: 10px;
+  padding-bottom: 5px;
+  display: flex;
+  justify-content: space-between;
+  .item {
+    text-align: center;
+  }
+  p {
+    color: var(--primary-color);
+    font-size: 12px;
+    margin-top: 15px;
+    font-weight: 400;
+    text-align: center;
+  }
+}
+
+.contactUs {
+  h5 {
+    color: var(--text-dark);
+    margin-bottom: 10px;
+    margin-bottom: 35px;
+  }
+  padding: 20px 40px;
+  margin: 15px 15px;
+  margin-top: 0px;
+  border-radius: 7px;
+  background: #fff;
+  text-align: center;
+  .item {
+    text-align: center;
+
+    p {
+      color: var(--primary-color);
+      font-size: 12px;
+      margin-top: 15px;
+      font-weight: 400;
+      text-align: center;
+    }
+  }
+}
+
+
+.products {
+    margin-top: 20px;
+    margin-bottom: 120px;
+    a {
+        display: inline-block;
+        margin: 20px 0px 10px 0px;
+    }
+     button {
+        background: none;
+        border: 1px solid var(--primary-color);
+        color: var(--primary-color);
+        font-size: 12px;
+        padding: 4px 22px;
+        border-radius: 25px;
+        font-weight: 500;
+     }
+}

@@ -1,0 +1,23 @@
+<svg id="icon-barclaycard" xmlns="http://www.w3.org/2000/svg" width="59" height="59" viewBox="0 0 59 59">
+  <circle id="Ellipse_30" data-name="Ellipse 30" cx="29.5" cy="29.5" r="29.5" fill="#0076b6"/>
+  <g id="Group_4" data-name="Group 4" transform="translate(-94 -342)">
+    <g id="Rectangle_40" data-name="Rectangle 40" transform="translate(112 356)" fill="none" stroke="#fff" stroke-width="1">
+      <path d="M0,0H19a0,0,0,0,1,0,0V31a0,0,0,0,1,0,0H2a2,2,0,0,1-2-2V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M.5.5h18a0,0,0,0,1,0,0v30a0,0,0,0,1,0,0H2A1.5,1.5,0,0,1,.5,29V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+    </g>
+    <g id="Rectangle_41" data-name="Rectangle 41" transform="translate(130 371)" fill="none" stroke="#fff" stroke-width="1">
+      <path d="M0,0H5A0,0,0,0,1,5,0V14a2,2,0,0,1-2,2H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M.5.5h4a0,0,0,0,1,0,0V14A1.5,1.5,0,0,1,3,15.5H.5a0,0,0,0,1,0,0V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+    </g>
+    <rect id="Rectangle_42" data-name="Rectangle 42" width="17" height="4" transform="translate(113 355)" fill="#0076b6"/>
+    <path id="Path_27" data-name="Path 27" d="M112.307,356.1l1.95,1.105,2.259-1.725,2.249,1.725,2.65-1.725,2.211,1.725,2.448-1.725L128.5,357.2l1.758-1.105" transform="translate(0.258 0.302)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+  <g id="Group_5" data-name="Group 5">
+    <path id="Path_26" data-name="Path 26" d="M3.534-1.93H9.5V-.891H.952V-1.93H2.369v-3.4H1.109V-6.369H2.369v-2.3a3.978,3.978,0,0,1,.37-1.755,2.837,2.837,0,0,1,1.039-1.189,2.829,2.829,0,0,1,1.551-.425H6.682a2.641,2.641,0,0,1,2.015.819,3.151,3.151,0,0,1,.8,2.172H8.367a2.212,2.212,0,0,0-.5-1.417A1.5,1.5,0,0,0,6.682-11H5.328a1.568,1.568,0,0,0-1.3.638,2.682,2.682,0,0,0-.5,1.692v2.3h3.4V-5.33h-3.4Z" transform="translate(22 30.891)" fill="#fff"/>
+    <rect id="Rectangle_43" data-name="Rectangle 43" width="2" height="3" transform="translate(22 28)" fill="#0076b6"/>
+  </g>
+  <line id="Line_38" data-name="Line 38" x2="8" transform="translate(20.5 34.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+  <line id="Line_39" data-name="Line 39" x2="8" transform="translate(20.5 38.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+  <line id="Line_40" data-name="Line 40" x2="3" transform="translate(31.5 38.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+  <line id="Line_41" data-name="Line 41" x2="3" transform="translate(31.5 34.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+</svg>

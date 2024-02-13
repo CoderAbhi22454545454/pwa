@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.144" height="23.603" viewBox="0 0 25.144 23.603">
+  <g id="icon-bell" transform="translate(0.695 0.58)">
+    <line id="Line_1" data-name="Line 1" y2="7" transform="translate(4.007 6.024)" fill="none" stroke="#0076b6" stroke-linecap="round" stroke-width="1"/>
+    <path id="Path_12" data-name="Path 12" d="M-.151-.055,0,7" transform="translate(19.807 6.024)" fill="none" stroke="#0076b6" stroke-linecap="round" stroke-width="1"/>
+    <path id="Path_10" data-name="Path 10" d="M841.2,70.5s.847-5.341,5.74-6.024" transform="translate(-837.193 -64.476)" fill="none" stroke="#0076b6" stroke-linecap="round" stroke-width="1"/>
+    <path id="Path_11" data-name="Path 11" d="M851.043,64.476a7.748,7.748,0,0,1,5.814,5.974" transform="translate(-837.193 -64.476)" fill="none" stroke="#0076b6" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_2" data-name="Line 2" x2="5" transform="translate(9.307 0.024)" fill="none" stroke="#0076b6" stroke-linecap="round" stroke-width="1"/>
+    <path id="Path_13" data-name="Path 13" d="M837.193,85.09a38.588,38.588,0,0,0,4-7.558" transform="translate(-837.193 -64.476)" fill="none" stroke="#0076b6" stroke-linecap="round" stroke-width="1"/>
+    <path id="Path_14" data-name="Path 14" d="M841.278,85.047a38.726,38.726,0,0,1-3.947-7.515" transform="translate(-817.524 -64.476)" fill="none" stroke="#0076b6" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_3" data-name="Line 3" x2="23.6" transform="translate(0.007 20.624)" fill="none" stroke="#0076b6" stroke-linecap="round" stroke-width="1"/>
+    <path id="Rectangle_9" data-name="Rectangle 9" d="M0,0H5A0,0,0,0,1,5,0V0A2,2,0,0,1,3,2H2A2,2,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(9.307 21.024)" fill="#0076b6"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg id="icon-rewards" xmlns="http://www.w3.org/2000/svg" width="58" height="58" viewBox="0 0 58 58">
+  <circle id="Ellipse_6" data-name="Ellipse 6" cx="29" cy="29" r="29" fill="#0076b6"/>
+  <g id="icon-profile" transform="translate(18.554 19.846)">
+    <path id="Path_1" data-name="Path 1" d="M480.554,86.038s.008-4.655,4.339-5.81,3.989-1.827,4.054-2" transform="translate(-480.554 -65.846)" fill="none" stroke="#fdfefe" stroke-linecap="round" stroke-width="1"/>
+    <path id="Path_2" data-name="Path 2" d="M488.565,86.153s.262-4.77-4.068-5.925-3.989-1.827-4.054-2" transform="translate(-467.998 -65.846)" fill="none" stroke="#fdfefe" stroke-linecap="round" stroke-width="1"/>
+    <path id="Path_3" data-name="Path 3" d="M487.63,67.508s.893-3.4,3.808-3.638,3.917,1.3,3.468.883a3.485,3.485,0,0,1,1.587,2.755" transform="translate(-481.567 -63.846)" fill="none" stroke="#fdfefe" stroke-linecap="round" stroke-width="1"/>
+    <path id="Path_4" data-name="Path 4" d="M487.63,72.744a5.363,5.363,0,0,0,3.069,3.817,3.767,3.767,0,0,0,4.429-1.152,16.1,16.1,0,0,0,1.369-2.664" transform="translate(-481.567 -64.786)" fill="none" stroke="#fdfefe" stroke-linecap="round" stroke-width="1"/>
+    <path id="Path_5" data-name="Path 5" d="M487.63,67.755v4.454" transform="translate(-481.567 -64.092)" fill="none" stroke="#fdfefe" stroke-width="1"/>
+    <path id="Path_6" data-name="Path 6" d="M487.63,67.755v4.4" transform="translate(-472.7 -64.201)" fill="none" stroke="#fdfefe" stroke-width="1"/>
+  </g>
+  <g id="icon-userstar" transform="translate(13.588 14.309)">
+    <path id="Path_15" data-name="Path 15" d="M614.653,642.471v-4.744l1.489-2.067h5.407l3.233-3.35h2.073l3.264,3.35h5.414l1.648,1.667v5.551l3.494,3.467v1.907l-3.885,3.578.392,5.351-1.648,1.361h-5.414l-3.264,3.58h-2.073l-3.85-3.58h-4.79l-1.835-1.361V651.83l-3.719-3.578v-1.907Z" transform="translate(-610.588 -632.309)" fill="none" stroke="#fdfefe" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

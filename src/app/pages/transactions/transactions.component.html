@@ -1,0 +1,415 @@
+<nav class="navbar fixed-top">
+  <div class="container-fluid">
+      <span class="navbar-text backarrow" (click)="navigateBack()">
+          <a> <img src="assets/img/icons/icon-back-arrow.svg" > </a>
+        </span>
+<!--   
+      <span class="navbar-text" >
+        <img src="assets/img/icons/icon-profile.svg" alt="" />
+      </span>
+      
+      <span class="userName ">
+        <h6 class="text-center">userName</h6>
+      </span>
+      
+      <span class="userName w-100" >
+        <h6 class="text-center">pageTitle }}</h6>
+      </span> -->
+
+      <span class="userName w-100" >
+        <h6 class="text-center">Current Account</h6>
+      </span>
+
+      <span class="accountBalance" >
+        <div>
+          <span> 20-92-60 </span>
+          <span> 50419680 </span>
+        </div>
+      </span>
+      <!-- <span class="navbar-text" >
+        <img src="assets/img/icons/icon-bell.svg" alt="" />
+      </span> -->
+  </div>
+</nav>
+
+<div class="top-bar">
+  <ul class="nav nav-pills" id="pills-tab" role="tablist">
+    <li class="nav-item" role="presentation">
+      <button
+        class="nav-link active"
+        id="pills-home-tab"
+        data-bs-toggle="pill"
+        data-bs-target="#pills-home"
+        type="button"
+        role="tab"
+        aria-controls="pills-home"
+        aria-selected="true"
+      >
+        Transactions
+      </button>
+    </li>
+    <li class="nav-item" role="presentation">
+      <button
+        class="nav-link"
+        id="pills-profile-tab"
+        data-bs-toggle="pill"
+        data-bs-target="#pills-profile"
+        type="button"
+        role="tab"
+        aria-controls="pills-profile"
+        aria-selected="false"
+      >
+        Manage
+      </button>
+    </li>
+  </ul>
+</div>
+<div class="tab-content" id="pills-tabContent">
+  <div
+    class="tab-pane fade show active"
+    id="pills-home"
+    role="tabpanel"
+    aria-labelledby="pills-home-tab"
+  >
+    <div class="balance">
+      <p>Available balance</p>
+      <h6>£0.<small>00</small></h6>
+      <div class="input-group">
+        <button type="button" class="btn btn-primary">
+          <img src="assets/img/icons/search.png" alt="" />
+        </button>
+        <div class="form-outline" data-mdb-input-init>
+          <input
+            type="search"
+            id="form1"
+            class="form-control"
+            placeholder="Search transactions"
+          />
+        </div>
+      </div>      
+    
+          <div class="search-top">
+            <div class="input-group">
+              <button type="button" class="btn btn-primary">
+                <img src="assets/img/icons/search.png" alt="" />
+              </button>
+              <div class="form-outline" data-mdb-input-init>
+                <input
+                  type="search"
+                  id="form1"
+                  class="form-control"
+                  placeholder="Search transactions"
+                />
+              </div>
+            </div>
+          </div>
+    </div>
+
+    <div class="frame">
+   
+    <div class="transactions">
+      <div class="transaction-list boxes">
+        <div class="time" #box>
+          <p>Today</p>
+        </div>
+        <ul>
+          <li>
+            <div class="left">
+              <img src="assets/img/icons/icon-barclays.svg" alt="" />
+              <p class="name">Barclays current account</p>
+            </div>
+            <div class="right">
+              <p class="amount debit-color">-£10212.<small>45</small></p>
+            </div>
+          </li>
+          <li>
+            <div class="left">
+              <img src="assets/img/icons/icon-barclays.svg" alt="" />
+              <p class="name">PW587892A DWP SP</p>
+            </div>
+            <div class="right">
+              <p class="amount credit-color">+£10212.<small>44</small></p>
+            </div>
+          </li>
+          <li class="offers">
+            <button><i class="bi-x"></i></button>
+            <h5>Peace of mind of your travels</h5>
+            <p>
+              Our Travel Pack make relaxing on holiday even easier. T&Cs app
+            </p>
+          </li>
+        </ul>
+      </div>
+      <div class="transaction-list boxes">
+        <div class="time" #box >
+          <p>Mon, 15th Jan</p>
+          <p>£0.00</p>
+        </div>
+        <ul>
+          <li>
+            <div class="left">
+              <img src="assets/img/icons/icon-barclays.svg" alt="" />
+              <p class="name">Barclays current account</p>
+            </div>
+            <div class="right">
+              <p class="amount">-£112.<small>21</small></p>
+            </div>
+          </li>
+          <li>
+            <div class="left">
+              <img src="assets/img/icons/icon-barclays.svg" alt="" />
+              <p class="name">Barclays current account</p>
+            </div>
+            <div class="right">
+              <p class="amount">-£500.<small>00</small></p>
+            </div>
+          </li>
+          <li>
+            <div class="left">
+              <img src="assets/img/icons/icon-barclays.svg" alt="" />
+              <p class="name">Barclays current account</p>
+            </div>
+            <div class="right">
+              <p class="amount">-£10,212.<small>21</small></p>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="transaction-list boxes">
+        <div class="time">
+          <p>Web, 10th Jan</p>
+          <p>£153.21</p>
+        </div>
+        <ul>
+         <li>
+            <div class="left">
+              <img src="assets/img/icons/icon-barclays.svg" alt="" />
+              <p class="name">Barclays current account</p>
+            </div>
+            <div class="right">
+              <p class="amount">-£12</p>
+            </div>
+          </li>
+          <li>
+            <div class="left">
+              <img src="assets/img/icons/icon-barclays.svg" alt="" />
+              <p class="name">Barclays current account</p>
+            </div>
+            <div class="right">
+              <p class="amount">-£2,212</p>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="transaction-list boxes">
+        <div class="time">
+          <p>Web, 9th Jan</p>
+          <p>£153.21</p> </div>
+        <ul>
+          <li>
+            <div class="left">
+              <img src="assets/img/icons/icon-barclays.svg" alt="" />
+              <p class="name">Barclays current account</p>
+            </div>
+            <div class="right">
+              <p class="amount debit-color">-£10,212.<small>45</small></p>
+            </div>
+          </li>
+          <li>
+            
+            <div class="left">
+              <img src="assets/img/icons/icon-barclays.svg" alt="" />
+              <p class="name">PW587892A DWP SP</p>
+            </div>
+            <div class="right">
+              <p class="amount credit-color">+£102.<small>44</small></p>
+            </div>
+          </li>
+          <li>
+            
+            <div class="left">
+              <img src="assets/img/icons/icon-barclays.svg" alt="" />
+              <p class="name">PW587892A DWP SP</p>
+            </div>
+            <div class="right">
+              <p class="amount credit-color">+£2,000.<small>00</small></p>
+            </div>
+          </li>
+          <li>
+            
+            <div class="left">
+              <img src="assets/img/icons/icon-barclays.svg" alt="" />
+              <p class="name">PW587892A DWP SP</p>
+            </div>
+            <div class="right">
+              <p class="amount credit-color">+£1,212.<small>44</small></p>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="transaction-list boxes">
+        <div class="time">
+          <p>Mon, 15th Jan</p>
+          <p>£0.00</p>
+        </div>
+        <ul>
+          <li>
+            <div class="left">
+              <img src="assets/img/icons/icon-barclays.svg" alt="" />
+              <p class="name">Barclays current account</p>
+            </div>
+            <div class="right">
+              <p class="amount">-£10,212.<small>21</small></p>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="transaction-list boxes">
+        <div class="time" appStickyTime>
+          <p>Mon, 15th Jan</p>
+          <p>£0.00</p>
+        </div>
+        <ul>
+          <li>
+            <div class="left">
+              <img src="assets/img/icons/icon-barclays.svg" alt="" />
+              <p class="name">Barclays current account</p>
+            </div>
+            <div class="right">
+              <p class="amount">-£10,212.<small>21</small></p>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="transaction-list boxes">
+        <div class="time" appStickyTime>
+          <p>Mon, 15th Jan</p>
+          <p>£0.00</p>
+        </div>
+        <ul>
+          <li>
+            <div class="left">
+              <img src="assets/img/icons/icon-barclays.svg" alt="" />
+              <p class="name">Barclays current account</p>
+            </div>
+            <div class="right">
+              <p class="amount">-£10,212.<small>21</small></p>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="transaction-list boxes">
+        <div class="time">
+          <p>Mon, 15th Jan</p>
+          <p>£0.00</p>
+        </div>
+        <ul>
+          <li>
+            <div class="left">
+              <img src="assets/img/icons/icon-barclays.svg" alt="" />
+              <p class="name">Barclays current account</p>
+            </div>
+            <div class="right">
+              <p class="amount">-£212.<small>00</small></p>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="transaction-list">
+        <div class="time" appStickyTime>
+          <p>Mon, 15th Jan</p>
+          <p>£0.00</p>
+        </div>
+        <ul>
+          <li>
+            <div class="left">
+              <img src="assets/img/icons/icon-barclays.svg" alt="" />
+              <p class="name">Barclays current account</p>
+            </div>
+            <div class="right">
+              <p class="amount">-£600.<small>00</small></p>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="transaction-list">
+        <div class="time" appStickyTime>
+          <p>Mon, 15th Jan</p>
+          <p>£0.00</p>
+        </div>
+        <ul>
+          <li>
+            <div class="left">
+              <img src="assets/img/icons/icon-barclays.svg" alt="" />
+              <p class="name">Barclays current account</p>
+            </div>
+            <div class="right">
+              <p class="amount">-£10,212.<small>21</small></p>
+            </div>
+          </li>
+          <li>
+            <div class="left">
+              <img src="assets/img/icons/icon-barclays.svg" alt="" />
+              <p class="name">Barclays current account</p>
+            </div>
+            <div class="right">
+              <p class="amount">-£10,212.<small>21</small></p>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+       
+  </div>
+
+  </div>
+  <div
+    class="tab-pane fade"
+    id="pills-profile"
+    role="tabpanel"
+    aria-labelledby="pills-profile-tab"
+  >
+    ...
+  </div>
+  <div
+    class="tab-pane fade"
+    id="pills-contact"
+    role="tabpanel"
+    aria-labelledby="pills-contact-tab"
+  >
+    ...
+  </div>
+</div>
+
+<!-- <script>
+  const boxes = document.querySelectorAll(".transaction-list");
+
+  window.addEventListener("scroll", () => {
+    const scrollTop = window.scrollY;
+    
+    // Find the box whose header should be sticky
+    const triggerOffset = 200; // Adjust this value according to your needs
+
+    let currentBox = null;
+    boxes.forEach((box) => {
+      const boxTop =
+        box.getBoundingClientRect().top + window.scrollY + triggerOffset;
+      const boxBottom = boxTop + box.clientHeight;
+       console.log(scrollTop , boxTop, boxBottom)
+      if (scrollTop >= boxTop && scrollTop < boxBottom) {
+        currentBox = box;
+      }
+
+    });
+    // Add sticky class to the time element in the current box
+    boxes.forEach((box) => {
+      box.querySelector(".time").classList.remove("sticky");
+    });
+
+    if (currentBox) {
+      currentBox.querySelector(".time").classList.add("sticky");
+    }
+  });
+</script>  -->
+

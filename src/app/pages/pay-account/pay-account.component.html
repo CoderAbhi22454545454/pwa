@@ -1,0 +1,131 @@
+<nav class="navbar fixed-top">
+  <div class="container-fluid">
+    <span class="navbar-text backarrow" (click)="navigateBack()">
+      <a> <img src="assets/img/icons/icon-back-arrow.svg" /> </a>
+    </span>
+    <span class="userName w-100">
+      <h6 class="text-center">Pay an Account</h6>
+    </span>
+  </div>
+</nav>
+
+<div class="account">
+  <div class="list-links">
+    <div class="item">
+      <div class="d-flex justify-content-between align-items-center">
+        <div class="inner1">
+          <label>From</label>
+          <select class="form-select" aria-label="Default select example">
+            <option value="1">Select account</option>
+          </select>
+        </div>
+        <div class="arrow">
+          <span
+            ><img src="assets/img/icons/icon-arrow-right.svg" alt=""
+          /></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="item">
+      <div class="d-flex justify-content-between align-items-center">
+        <div class="inner1">
+          <label>To</label>
+          <select class="form-select" aria-label="Default select example">
+            <option value="1">Add/select payee</option>
+          </select>
+        </div>
+        <div class="arrow">
+          <span
+            ><img src="assets/img/icons/icon-arrow-right.svg" alt=""
+          /></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="item">
+      <div class="d-flex justify-content-between align-items-center">
+        <div class="inner1">
+          <label>Amount</label>
+          <input type="text" placeholder="£ Enter Amount" />
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="list">
+    <h6>What sort of payment is this?</h6>
+    <div class="row">
+      <div class="col-8">
+        <div class="form-check">
+          <input class="form-check-input" type="radio" id="bigCheckbox" />
+          <label class="form-check-label" for="bigCheckbox"> One-off </label>
+          <p>6 Feb 2024</p>
+        </div>
+      </div>
+      <div class="col-4 text-right">
+        <a href="#">Change Date</a>
+      </div>
+    </div>
+  </div>
+  <div class="btn-btm">
+    <button>Review payment</button>
+  </div>
+
+  <div class="notice">
+    <h6>Important</h6>
+
+    <div class="terms">
+      <div class="form-check">
+        <input class="form-check-input" type="radio" id="bigCheckbox" />
+        <label class="form-check-label" for="bigCheckbox">
+          Future-dated payments can't be subsequently changed in the app. You'll
+          need to use online or Telephone Banking instead
+        </label>
+      </div>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" id="bigCheckbox" />
+        <label class="form-check-label" for="bigCheckbox">
+          If you're a Wealth customer, please call us to change a future- dated
+          payment
+        </label>
+      </div>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" id="bigCheckbox" />
+        <label class="form-check-label" for="bigCheckbox">
+          Cash transfers between Barclays bank accounts will take place
+          immediately
+        </label>
+      </div>
+
+      <div class="form-check">
+        <input class="form-check-input" type="radio" id="bigCheckbox" />
+        <label class="form-check-label" for="bigCheckbox">
+          We'll credit payments to Barclaycard on the same day, but they may not
+          appear on your statement untill the following day
+        </label>
+      </div>
+
+
+
+      <div class="form-check">
+        <input class="form-check-input" type="radio" id="bigCheckbox" />
+        <label class="form-check-label" for="bigCheckbox">
+            You'll need to have enough cleared money in your account to make the payment - your overdraft facility counts towards your available balance
+        </label>
+      </div>
+
+
+
+      <div class="form-check">
+        <input class="form-check-input" type="radio" id="bigCheckbox" />
+        <label class="form-check-label" for="bigCheckbox">
+            If the payment date you've chosen falls on a bank holiday or weekend, then we'll make the payment on the next working day
+        </label>
+      </div>
+
+
+
+    </div>
+  </div>
+</div>

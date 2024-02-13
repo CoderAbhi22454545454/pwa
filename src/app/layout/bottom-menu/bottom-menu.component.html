@@ -1,0 +1,37 @@
+<nav class="navbar fixed-bottom bg-prime">
+  <div class="container-fluid">
+    <div class="navbar-text" [class.active]="isActive('/')" routerLink="/">
+      <img src="assets/img/icons/icon-home{{isActive('/home') ? '-active' : ''}}.svg" alt="">
+      <span>
+        Account
+      </span>
+    </div>
+    <div class="navbar-text" [class.active]="isActive('/products')">
+      <img src="assets/img/icons/icon-products{{isActive('/products') ? '-active' : ''}}.svg" alt="">
+      <span>
+        Products
+      </span>
+    </div>
+    <div class="navbar-text" [class.active]="isActive('/paytransfer')" routerLink="/paytransfer">
+      <img src="assets/img/icons/icon-pay{{isActive('/paytransfer') ? '-active' : ''}}.svg" alt="">
+      <span>
+        Pay & Transfer
+      </span>
+    </div>
+    <div class="navbar-text" [class.active]="isActive('/help')">
+      <img src="assets/img/icons/icon-help{{isActive('/help') ? '-active' : ''}}.svg" alt="">
+      <span>
+        Help
+      </span>
+    </div>
+
+    <div class="dropdown">
+      <div class="btn-group dropup">
+        <button type="button" class="btns" data-bs-toggle="dropdown" aria-expanded="false">
+          <img src="assets/img/icons/icon-more.svg" alt="">
+          More
+        </button>
+      </div>
+    </div>
+  </div>
+</nav>

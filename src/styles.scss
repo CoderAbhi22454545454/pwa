@@ -1,0 +1,113 @@
+
+@import './variables';
+
+@font-face {
+  font-family: "ExpertSansRegular";
+  src: url('./assets/fonts/expertsans-regular-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "ExpertSansRegular", sans-serif;
+  font-weight: 400;
+  // padding: 0px 7px;
+  background: #f6f5f3;
+}
+
+
+.bg-prime {
+    background-color: var(--primary-color);
+}
+
+
+.fixed-top {
+  padding: 60px 12px 15px 12px;
+  padding-top: 60px;
+  background: #fff;
+  .backarrow {
+      color: var(--primary-color);
+      font-size: 26px;
+      position: absolute;
+      top: 42%;
+      cursor: pointer;
+  }
+  .userName {
+      h6 {
+          font-style: 500;
+          font-size: 19px;
+          margin: 0px;
+          color: var(--text-color);
+      }
+  }
+
+
+  .accountBalance {
+      width: 100%;
+      margin-top:0px;
+      div {
+          text-align: center;
+          width: 100%;
+          display: flex;
+          align-items: center;
+          gap: 15px;
+          justify-content: center;
+        span {
+          font-size: 12px;
+          font-weight: 600;
+            text-align: center;
+            margin-top: 10px;
+            color: var(--primary-color);
+          }
+      }
+  }
+}
+
+
+.input-group {
+  width: 75%;
+  margin: 0 auto;
+  margin-top: 18px;
+  .form-outline {
+    width: 79%;
+  }
+  input {
+    border-left: 0px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    padding: 8px 10px;
+    width: 270px;
+    border: 1px solid #cecfd3;
+    border-left: 0px;
+    color: #7e7e7e;
+
+    &::placeholder  {
+      color: #979797;
+      font-weight: 400;
+    }
+    &:focus {
+      box-shadow: none;
+      border-color: #cecfd3;
+    }
+  }
+  button {
+    background: transparent;
+    border: 1px solid #cecfd3;
+    color: rgb(47, 46, 46);
+    border-right: none;
+    padding-right: 0px;
+    img {
+      height: 28px;
+    }
+    &:focus {
+      box-shadow: none;
+      border-color: #cecfd3;
+    }
+  }
+}
