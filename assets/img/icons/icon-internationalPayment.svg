@@ -1,0 +1,11 @@
+<svg id="icon-internationalPayment" xmlns="http://www.w3.org/2000/svg" width="59" height="57" viewBox="0 0 59 57">
+  <ellipse id="Ellipse_24" data-name="Ellipse 24" cx="29.5" cy="28.5" rx="29.5" ry="28.5" fill="#0076b6"/>
+  <g id="Ellipse_23" data-name="Ellipse 23" transform="translate(13 12)" fill="none" stroke="#fff" stroke-width="1">
+    <circle cx="16" cy="16" r="16" stroke="none"/>
+    <circle cx="16" cy="16" r="15.5" fill="none"/>
+  </g>
+  <path id="Path_21" data-name="Path 21" d="M202.371,2197.975v3.543s2.676,1.806,3.157,3.131,3.268-2.091,6.715,9.539" transform="translate(-186 -2179)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+  <path id="Path_22" data-name="Path 22" d="M213.739,2220.99l-1.714-3.265.2-3.517" transform="translate(-186 -2179)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+  <path id="Path_23" data-name="Path 23" d="M212.243,2191.83a3.679,3.679,0,0,0,1.515,2.176,6.168,6.168,0,0,0,2.252,1.247v.591l-1.253.524-1.9.264-.974.344-.573.7-1.174,2.2-.863.552h-2.2l-.3.608v1.125l2.079,1.808h1.284l.885-.692h2.26l4,1.834h2.026a3.14,3.14,0,0,1,2.27,2.247c.333,1.779-1.185,4.8-1.185,4.8l-3.565,2.429-.334,1.766-1.206,1.107-1.44,3.367" transform="translate(-186 -2179)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+  <path id="Path_24" data-name="Path 24" d="M219.809,2192.355v1.652l2.043,1.7,1.314.164,1.816,2.527v6.489l.561,1.438,1.066,1.817.87.151.642-.151.53-.433,1.843-1.6" transform="translate(-186 -2179)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+</svg>

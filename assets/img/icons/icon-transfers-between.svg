@@ -1,0 +1,15 @@
+<svg id="icon-transfers-between" xmlns="http://www.w3.org/2000/svg" width="59" height="59" viewBox="0 0 59 59">
+  <circle id="Ellipse_26" data-name="Ellipse 26" cx="29.5" cy="29.5" r="29.5" fill="#0076b6"/>
+  <g id="Group_1" data-name="Group 1" transform="translate(-313.5 -183.5)">
+    <g id="arrow" transform="translate(331.5 199.5)">
+      <line id="Line_12" data-name="Line 12" x1="24" transform="translate(0 6.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_13" data-name="Line 13" x2="6" y2="6.5" transform="translate(18)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_14" data-name="Line 14" y1="6.5" x2="6" transform="translate(18 6.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <g id="arrow-2" data-name="arrow" transform="translate(353.5 226.5) rotate(180)">
+      <line id="Line_12-2" data-name="Line 12" x1="24" transform="translate(0 6.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_13-2" data-name="Line 13" x2="6" y2="6.5" transform="translate(18)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_14-2" data-name="Line 14" y1="6.5" x2="6" transform="translate(18 6.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

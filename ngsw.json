@@ -1,0 +1,143 @@
+{
+  "configVersion": 1,
+  "timestamp": 1707847374303,
+  "index": "https://github.com/CoderAbhi22454545454/pwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://github.com/CoderAbhi22454545454/pwa/favicon.ico",
+        "https://github.com/CoderAbhi22454545454/pwa/index.html",
+        "https://github.com/CoderAbhi22454545454/pwa/main.b814c3229fc6f62d.js",
+        "https://github.com/CoderAbhi22454545454/pwa/manifest.webmanifest",
+        "https://github.com/CoderAbhi22454545454/pwa/polyfills.88f156e08a405119.js",
+        "https://github.com/CoderAbhi22454545454/pwa/runtime.2f516515794a0aa2.js",
+        "https://github.com/CoderAbhi22454545454/pwa/scripts.3e75d50128144df1.js",
+        "https://github.com/CoderAbhi22454545454/pwa/styles.68c663ed810af2b0.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://github.com/CoderAbhi22454545454/pwa/assets/fonts/expertsans-regular-webfont.ttf",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/Icon-Barclaycard.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/Icon-insurance.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/Icon-loans.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/Icon-mortgages.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/close.png",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-accounts-inactive.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-arrow-right.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-back-arrow.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-barclays.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-bell.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-card.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-chess.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-directdebit.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-help.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-home-active.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-home.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-internationalPayment.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-message.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-more.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-pay-active.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-pay-recent.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-pay.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-payaccess.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-paybybank.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-payin.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-phone.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-products.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-profile.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-rewards.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-sentry.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-spending.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-transfers-between.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/iconbarclaycard.svg",
+        "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/search.png",
+        "https://github.com/CoderAbhi22454545454/pwa/bootstrap-icons.70a9dee9e5ab72aa.woff",
+        "https://github.com/CoderAbhi22454545454/pwa/bootstrap-icons.bfa90bda92a84a6a.woff2",
+        "https://github.com/CoderAbhi22454545454/pwa/expertsans-regular-webfont.7143e7005978e1a7.ttf"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://github.com/CoderAbhi22454545454/pwa/assets/fonts/expertsans-regular-webfont.ttf": "41d23a09c0ce899acf8d4f9a958543d9da9ca5e2",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/Icon-Barclaycard.svg": "96aeb94baa7e04daa0e688891511bd96a8c8e849",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/Icon-insurance.svg": "ff9867644f66e24fc986662f6f41b8445957e093",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/Icon-loans.svg": "cd85d65abd9114c484f56e56143add202e4e11fb",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/Icon-mortgages.svg": "0040da868ea159816da6eb1b4ba04dfbf62b08a6",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/close.png": "902f1478e483c271c6d6799dde6928fa1b4fee5f",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-accounts-inactive.svg": "9330afdce3ee50f051cd4153daa1e13925f67413",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-arrow-right.svg": "584268a9afdb96d448a6617e85cf9cee1e3cc837",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-back-arrow.svg": "0fb9e59adf6f17021abedbd12536669e78dcd28b",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-barclays.svg": "4618fd32838184ec842b6ce59cb99a698a218ac5",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-bell.svg": "9dbff4c49c234b7f9fcb04a16d76019d6415f37f",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-card.svg": "d0a5b65a14f15fafa558b6f8ec2e22e4e7d183b4",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-chess.svg": "2c8c961820fe4dda356083c379afe7e65a419bc8",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-directdebit.svg": "9be1dfbc2a97bef82ff9d8e93016b6ba22fbe067",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-help.svg": "164f1ceecfc0baf0905be4352efa219b1231ead7",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-home-active.svg": "873bb17bb253eba84ab09e9df5dd04a96c5469f5",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-home.svg": "873bb17bb253eba84ab09e9df5dd04a96c5469f5",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-internationalPayment.svg": "ee406db7ebf03c90dd895a072143680a00a79465",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-message.svg": "4c9d8c5b44d4f9e89d78c9e42f767109125b7a3d",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-more.svg": "89e2b74bf4879e4c94b38194007b4056a5c8de02",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-pay-active.svg": "fdb2c2b4b5db70fe84e5002720f98cbb999357cd",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-pay-recent.svg": "497dcead66f8ae1e1716f9330ecee69f62e27b2a",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-pay.svg": "44a351b5ba2f112c21d3cd6c81b8a0123cfda1b4",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-payaccess.svg": "c15a5130796fb5c682098bc68abf9a457a3e3843",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-paybybank.svg": "07e225217f918d706985f92290c76109d3794d33",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-payin.svg": "da8ba96ee0e960106512ba0dbe5b994a0a3d7bfc",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-phone.svg": "75607c001c9cb99cd5d3044a7c5a200011fe03c7",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-products.svg": "32d82981fa3a210b572012e12166762511eb2616",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-profile.svg": "38ee6908cfff4fa66e0d06fba6c695df99c56b94",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-rewards.svg": "8d1f4cd6983a4db383aae240706043a5433de249",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-sentry.svg": "d0aafada9bdbe702fc413dfc4a9c2f88d0cb6f35",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-spending.svg": "897459f16f4168a09145af4991937756056b13e1",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/icon-transfers-between.svg": "ea50ec90591b3a55e54bfc2554fe9ac396319253",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/iconbarclaycard.svg": "a22db8ebceafce30c859ac17a0bf10d65e01cf6b",
+    "https://github.com/CoderAbhi22454545454/pwa/assets/img/icons/search.png": "53b448cb640081ac6525cf465eea31a0ece70b85",
+    "https://github.com/CoderAbhi22454545454/pwa/bootstrap-icons.70a9dee9e5ab72aa.woff": "d5831fd39baf13aff7626e483b9a089730f18604",
+    "https://github.com/CoderAbhi22454545454/pwa/bootstrap-icons.bfa90bda92a84a6a.woff2": "020c3c6f9280a315e8425d7f92e15bcd0cdda1b2",
+    "https://github.com/CoderAbhi22454545454/pwa/expertsans-regular-webfont.7143e7005978e1a7.ttf": "41d23a09c0ce899acf8d4f9a958543d9da9ca5e2",
+    "https://github.com/CoderAbhi22454545454/pwa/favicon.ico": "04c278dba3e54393c4c980f7fd4dcd43796ef813",
+    "https://github.com/CoderAbhi22454545454/pwa/index.html": "986709cf08e778e97232e9d67046d71ac47d93d8",
+    "https://github.com/CoderAbhi22454545454/pwa/main.b814c3229fc6f62d.js": "7193f7266acf70f034b28174dca4c52244d13832",
+    "https://github.com/CoderAbhi22454545454/pwa/manifest.webmanifest": "4cf54d54f6fe4a0736380c580bb94cd9bd4b3215",
+    "https://github.com/CoderAbhi22454545454/pwa/polyfills.88f156e08a405119.js": "621e944cb9d7c180c22fefc76373b7f42403c2e4",
+    "https://github.com/CoderAbhi22454545454/pwa/runtime.2f516515794a0aa2.js": "aaefabbb4c0882a2de9006cf9adc55ca63755c80",
+    "https://github.com/CoderAbhi22454545454/pwa/scripts.3e75d50128144df1.js": "d72da9ade03467f91c011aebc90808b70f6e9dbb",
+    "https://github.com/CoderAbhi22454545454/pwa/styles.68c663ed810af2b0.css": "8af860ed40f26ff80a57d85c3ad70868bba318a0"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

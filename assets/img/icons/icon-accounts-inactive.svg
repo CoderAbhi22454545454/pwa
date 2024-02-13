@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.439" height="20.065" viewBox="0 0 18.439 20.065">
+  <g id="icon-accounts-inactive" transform="translate(0.227 0.672)">
+    <g id="Rectangle_45" data-name="Rectangle 45" transform="translate(0 7.393)" fill="none" stroke="#f7f7f7" stroke-width="1">
+      <path d="M0,0H18a0,0,0,0,1,0,0V11a1,1,0,0,1-1,1H1a1,1,0,0,1-1-1V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M.5.5h17a0,0,0,0,1,0,0V11a.5.5,0,0,1-.5.5H1A.5.5,0,0,1,.5,11V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+    </g>
+    <rect id="Rectangle_46" data-name="Rectangle 46" width="16" height="2" transform="translate(1 6.393)" fill="#0076b6"/>
+    <path id="Path_29" data-name="Path 29" d="M34.479,2907.253l8.629-7.646,8.4,7.646" transform="translate(-34 -2899.607)" fill="none" stroke="#f7f7f7" stroke-linecap="round" stroke-width="1"/>
+    <g id="Rectangle_47" data-name="Rectangle 47" transform="translate(4 11.393)" fill="none" stroke="#f7f7f7" stroke-width="1">
+      <path d="M2,0H3A2,2,0,0,1,5,2V8A0,0,0,0,1,5,8H0A0,0,0,0,1,0,8V2A2,2,0,0,1,2,0Z" stroke="none"/>
+      <path d="M2,.5H3A1.5,1.5,0,0,1,4.5,2V7.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V2A1.5,1.5,0,0,1,2,.5Z" fill="none"/>
+    </g>
+  </g>
+</svg>
